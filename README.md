@@ -1,6 +1,6 @@
 # BackEnd Search for Vue
 
-This is the **Node.js + Express** backend for Task A — Mini Full-Stack Search, which can be accessed from this [link](https://github.com/NamriHolmes-indo/frontend-search.git).
+This is the **Node.js + Express** backend for Task A — Mini Full-Stack Search, which can be accessed from this [link](https://github.com/NamriHolmes-indo/Dev_Naufal-Ammar-Badri_TaskAFrontEnd.git).
 The backend provides a simple search endpoint that reads data from a local faqs.json file and returns the top 3 results based on keyword relevance scoring.
 
 This backend is used by a React frontend (Vite + SCSS) in a small full-stack project.
